@@ -5,6 +5,7 @@ I’m an 18-year-old tech enthusiast and aspiring founder, passionate about blen
 ## Skills & Experience
 - **Machine Learning**: Intermediate knowledge in data preprocessing, EDA, feature engineering, model selection, and hyperparameter tuning. Exploring Reinforcement Learning (RL), Deep Learning (DL), and NLP.  
   - **Projects**: Developed an RL agent for Geometry Dash (Python + C++ via pybind), actively competing on Kaggle, and sharing notebooks.
+  - **Competitons**: Kaggle (https://www.kaggle.com/dmitrysavkov/competitions).
 - **Programming & Web Development**:  
   - **Algorithms**: Solved 900+ LeetCode problems, ranking top-1000 in weekly contests.  
   - **Web**: Skills in HTML, CSS, JavaScript, Flask, React, Tailwind, SQL, MongoDB, with basics in Docker, Nginx, Kafka, and DevOps. Built a 7000-line Telegram-like messenger.
