@@ -25,7 +25,7 @@
 **Hard problems and fast teams.**
 I am looking for MLE & Agentic **roles** or **collaborations**. If you are building systems that reason—let's ship.
 
-### Philosophy I
+### Philosophy 
 > Build. Grow. Pursue.
 
 ### 🔗 Connect
