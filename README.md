@@ -1,23 +1,41 @@
-# Hi, I’m Dmitry Savkov 👋
+# Hi, I'm Dmitry 👋
 
-I’m an 18-year-old tech enthusiast and aspiring founder, passionate about blending AI innovation with entrepreneurship. My self-driven learning journey began some years ago, and I’m now strongly specializing in coding.
+**ML Engineer (Tabular & Agents) | SPbU MatMeh**
 
-## Skills & Experience
-- **Machine Learning**: Intermediate knowledge in data preprocessing, EDA, feature engineering, model selection, and hyperparameter tuning. Exploring Reinforcement Learning (RL), Deep Learning (DL), and NLP.  
-  - **Projects**: Developed an RL agent for Geometry Dash (Python + C++ via pybind), actively competing on Kaggle, and sharing notebooks.
-  - **Competitions**: Kaggle (https://www.kaggle.com/dmitrysavkov/competitions).
-- **Programming & Web Development**:  
-  - **Algorithms**: Solved 900+ LeetCode problems, ranking top-1000 in weekly contests.  
-  - **Web**: Skills in HTML, CSS, JavaScript, Flask, React, Tailwind, SQL, MongoDB, with basics in Docker, Nginx, Kafka, and DevOps. Built a 7000-line Telegram-like messenger.
-- **Math & Stats**: Solid grasp of linear algebra, calculus, and statistics.
-- **Languages**: Fluent in English for global learning.
+> **"Engineering deterministic systems from probabilistic models."**
 
-## What Drives Me
-I’m deeply curious, disciplined, and resilient. I believe life’s meaning comes from purposeful action and embracing growth challenges. Beyond tech, I’m a competitive athlete and enjoy self-improvement.
+`MLE` `Agents & LLMs` `Data Science` `Web` `Math` `Python` `Infrastructure`
 
-## Looking For
-Collaboration on innovative projects, mentorship, and opportunities to apply my skills in ML and product development. Let’s build something impactful together!
+### 🏗️ Current Builds
 
-## Contact
-- Telegram: @dmsavkov
-- Email: dmitry_savkov@mail.ru
+🤖 **NotionAgent** – Autonomous inbox processing and prioritization system.    
+📊 **[Kaggle](https://www.kaggle.com/dmitrysavkov)** – Multiple top 10-20% playground competitions.   
+📦 **[FashionMNIST-Ops](https://github.com/dmsavkov/basic-mlops-application-for-mnist-fashion)** – Full containerized, tested, profiled pipeline for Fashion-MNIST classification.    
+🧠 **[LeetCode](https://leetcode.com/u/dmsavkov/)** – Top 5% tier.    
+🎮 **[Geometry-Dash-AI](https://github.com/dmsavkov/Geometry-Dash-AI)** – Reinforcement learning agent playing Geometry Dash (unfinished).    
+💬 **[Messenger](https://github.com/dmsavkov/Messenger)** – Real-time chat application with database integration inspired by Telegram.    
+⛈️ **[Bad-Weather-Notifier](https://github.com/dmsavkov/Bad-Weather-Notifier)** – Automated alerts for local weather conditions.    
+
+### 🔭 What I'm Doing
+* **Shipping** – Aggressively moving from "studying" to "deploying".
+* **Mastering the Stack** – Connecting math, agentic workflows and Docker containers.
+* **Building in Public** – Sharing the wins, failures, experience and lessons on X.
+
+### ⚡ Open To
+**Hard problems and fast teams.**
+I am looking for MLE & Agentic **roles** or **collaborations**. If you are building systems that reason—let's ship.
+
+### Philosophy I
+> Build. Grow. Pursue.
+
+### 🔗 Connect
+[Twitter/X](https://x.com/dmitrysavkovv) • [Telegram](https://t.me/dmsavkov) 
+
+<details>
+<summary><strong>The Human Side</strong></summary>
+
+* **Growth:** In pursuit of Mastery. Start getting better and never stop.
+* **Productivity:** Trying to squeeze every drop of performance, fulfillment, and well-being.
+* **Athletics:** Deep into Basketball & Poly-sports.
+
+</details>
