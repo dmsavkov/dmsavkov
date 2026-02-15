@@ -8,7 +8,7 @@
 
 ### 🏗️ Current Builds
 
-🤖 **NotionAgent** – Autonomous inbox processing and prioritization system.    
+🤖 **[NotionAgent](https://github.com/dmsavkov/Notion-Inbox-Agent)** – Autonomous inbox processing and prioritization system.    
 📊 **[Kaggle](https://www.kaggle.com/dmitrysavkov)** – Multiple top 10-20% playground competitions.   
 📦 **[FashionMNIST-Ops](https://github.com/dmsavkov/basic-mlops-application-for-mnist-fashion)** – Full containerized, tested, profiled pipeline for Fashion-MNIST classification.    
 🧠 **[LeetCode](https://leetcode.com/u/dmsavkov/)** – Top 5% tier.    
