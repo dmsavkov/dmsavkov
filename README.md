@@ -4,7 +4,7 @@
 
 > **"Engineering deterministic systems from probabilistic models."**
 
-`MLE` `Agents & LLMs` `Data Science` `Web` `Math` `Python` `Infrastructure` `Claude`
+`MLE` `Agents & LLMs` `Data Science` `Web` `Math` `Python` `Infrastructure` `Claude` `Gemini`
 
 ### 🏗️ Current Builds
 
