@@ -2,13 +2,11 @@
 
 **MLE | Agentic AI | Founder**
 
-> **"Engineering deterministic systems from probabilistic models."**
-
 `MLE` `Agents & LLMs` `Data Science` `Web` `Math` `Python` `Infrastructure` `Claude` `Gemini`
 
 ### Featured Projects
 
-🛡️ **[LogGuard](https://github.com/dmsavkov/Log-Guard)** – CI logs exceed LLM context; `lg run` compresses them into failure-preserving timelines.  
+🛡️ **[LogGuard](https://github.com/dmsavkov/Log-Guard)** – CI logs consume LLM context & input; `lg run` compresses failure-preserving.  
 🤖 **[NotionQuery](https://github.com/dmsavkov/Notion-Query-Translator)** – Notion API filters are tedious to build; natural language → validated Python queries.  
 📬 **[NotionAgent](https://github.com/dmsavkov/Notion-Inbox-Agent)** – Captured notes rarely become actionable; messy inbox → prioritized Notion tasks.  
 📖 **[AI E-Book Reader](https://github.com/dmsavkov/ai-ebook-reader)** – Long books are hard to revisit; local paragraph summaries and semantic links, no cloud upload.  
@@ -26,36 +24,28 @@
 
 💬 **[Messenger](https://github.com/dmsavkov/Messenger)** – Real-time messaging with auth, persistent storage, and WebSockets.  
 ⛈️ **[Bad-Weather-Notifier](https://github.com/dmsavkov/Bad-Weather-Notifier)** – Location-specific severe-weather alerts.  
-🎮 **[Geometry-Dash-AI](https://github.com/dmsavkov/Geometry-Dash-AI)** – RL environment for autonomous Geometry Dash gameplay. *(Paused.)*  
-🔬 **[Skepsis](https://github.com/dmsavkov/skepsis)** – *Archived.* Experiment dashboards hallucinate metrics; agent harnesses made a custom investigator redundant.  
-🃏 **[Anki-Accelerator](https://github.com/dmsavkov/Anki-Accelerator)** – *Archived.* Card intent is too personal; writing the card is half the learning.
+🎮 **[Geometry-Dash-AI](https://github.com/dmsavkov/Geometry-Dash-AI)** – RL environment for autonomous Geometry Dash gameplay. _(Paused.)_  
+🔬 **[Skepsis](https://github.com/dmsavkov/skepsis)** – _Archived._ Experiment dashboards hallucinate metrics; agent harnesses (Cursor) made a custom investigator redundant.  
+🃏 **[Anki-Accelerator](https://github.com/dmsavkov/Anki-Accelerator)** – _Archived._ Card intent is too personal; writing the card is half the learning.
 
 ### Competitions
 
 🧠 **[LeetCode](https://leetcode.com/u/dmsavkov/)** – Top 5%  
-📊 **[Kaggle](https://www.kaggle.com/dmitrysavkov)** – Tabular ML competition submissions
+📊 **[Kaggle](https://www.kaggle.com/dmitrysavkov)** – Multiple top 5-10% playground appearances
 
-### What I'm Building
+### About Me
 
-Building agentic systems, experimenting with LLM evaluation, and shipping production-ready ML infrastructure.
+> Building agentic systems, experimenting with LLMs and architectures, and solving all friction around.
+> Philosophy: Build. Grow. Pursue.
 
-### Open To
-
-Internships, research collaborations, and ML Engineering / Agentic AI roles.
-
-### Philosophy
-
-> Build. Grow. Pursue.
-
-### Connect
-
-[Twitter/X](https://x.com/dmitrysavkovv) • [Telegram](https://t.me/dmsavkov)
+- Open To: startup work, co-founding, research collaborations, and ML Engineering / Agentic AI roles.
+- Connect on [Twitter/X](https://x.com/dmitrysavkovv) • [Telegram](https://t.me/dmsavkov)
 
 <details>
 <summary><strong>The Human Side</strong></summary>
 
-* **Growth** — Constantly learning by building.
-* **Sports** — Basketball and strength training.
-* **Reading** — AI, systems, philosophy, and psychology.
+- **Growth** — Constantly learning by building.
+- **Sports** — Basketball and strength training.
+- **Reading** — AI, systems, philosophy, and psychology.
 
 </details>
