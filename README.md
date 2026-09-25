@@ -7,15 +7,16 @@
 ### Featured Projects
 
 🛡️ **[LogGuard](https://github.com/dmsavkov/Log-Guard)** – CI logs consume LLM context & input; `lg run` compresses failure-preserving.  
+🔬 **[Indago](https://github.com/dmsavkov/indago-investigate)** – Agentic investigation packs for coding agents over frozen ML incident evidence. Practitioner outreach: complex prod-ML incident RCA is rarer / less painful than assumed.  
+📖 **[Excerpta](https://github.com/dmsavkov/excerpta)** – Nonfiction fluff + floating AI summaries break trust; paragraph-anchored key points, local only.  
 🤖 **[NotionQuery](https://github.com/dmsavkov/Notion-Query-Translator)** – Notion API filters are tedious to build; natural language → validated Python queries.  
 📬 **[NotionAgent](https://github.com/dmsavkov/Notion-Inbox-Agent)** – Captured notes rarely become actionable; messy inbox → prioritized Notion tasks.  
-📖 **[AI E-Book Reader](https://github.com/dmsavkov/ai-ebook-reader)** – Long books are hard to revisit; local paragraph summaries and semantic links, no cloud upload.  
 📦 **[FashionMNIST-Ops](https://github.com/dmsavkov/basic-mlops-application-for-mnist-fashion)** – Production-style ML pipeline: Docker, tests, profiling, reproducible training.  
-🔀 **[RouterExperiments](https://github.com/dmsavkov/RouterExperiments)** – When is an expensive LLM actually necessary? Cost-aware router benchmarks.  
 ⚖️ **[Uni-Judge Research](https://github.com/dmsavkov/DatasetLabeling)** – Can LLM judges replace classical classifiers with only dozens of labels?
 
 ### Research
 
+🔀 **[RouterExperiments](https://github.com/dmsavkov/RouterExperiments)** – When is an expensive LLM actually necessary? Cost-aware router benchmarks.  
 🧪 **[Synthetic Routing](https://github.com/dmsavkov/SyntheticGenerationExperiments)** – Synthetic data is cheap — does it improve routing or teach shortcuts?  
 🎯 **[DPO-RAG-Opt](https://github.com/dmsavkov/dpo-rag-opt)** – Small LLMs break fixed JSON schemas; measures whether DPO fixes structured output under RAG.  
 🔬 **[LogGuard Experiments](https://github.com/dmsavkov/log-guard-experiments)** – R&D monorepo behind the LogGuard v1.0.0 release.
@@ -25,8 +26,10 @@
 💬 **[Messenger](https://github.com/dmsavkov/Messenger)** – Real-time messaging with auth, persistent storage, and WebSockets.  
 ⛈️ **[Bad-Weather-Notifier](https://github.com/dmsavkov/Bad-Weather-Notifier)** – Location-specific severe-weather alerts.  
 🎮 **[Geometry-Dash-AI](https://github.com/dmsavkov/Geometry-Dash-AI)** – RL environment for autonomous Geometry Dash gameplay. _(Paused.)_  
+🗺️ **Visual Long Planner** – _Archived._ Visual+chat plan graphs; falsified — planning wasn’t the bottleneck (tasks weren’t that complex).  
 🔬 **[Skepsis](https://github.com/dmsavkov/skepsis)** – _Archived._ Experiment dashboards hallucinate metrics; agent harnesses (Cursor) made a custom investigator redundant.  
-🃏 **[Anki-Accelerator](https://github.com/dmsavkov/Anki-Accelerator)** – _Archived._ Card intent is too personal; writing the card is half the learning.
+🃏 **[Anki-Accelerator](https://github.com/dmsavkov/Anki-Accelerator)** – _Archived._ Card intent is too personal; writing the card is half the learning.  
+🧠 **Scientific Reasoner / Avatar / Trace Analysis** – _Archived._ Memory OS, judgment-avatar, and mechanical-trace clustering — all falsified as products (WTP / Cursor substitute / weak market pull).
 
 ### Competitions
 
