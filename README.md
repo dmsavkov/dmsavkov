@@ -19,10 +19,13 @@
 🔀 **[RouterExperiments](https://github.com/dmsavkov/RouterExperiments)** – When is an expensive LLM actually necessary? Cost-aware router benchmarks.  
 🧪 **[Synthetic Routing](https://github.com/dmsavkov/SyntheticGenerationExperiments)** – Synthetic data is cheap — does it improve routing or teach shortcuts?  
 🎯 **[DPO-RAG-Opt](https://github.com/dmsavkov/dpo-rag-opt)** – Small LLMs break fixed JSON schemas; measures whether DPO fixes structured output under RAG.  
-🔬 **[LogGuard Experiments](https://github.com/dmsavkov/log-guard-experiments)** – R&D monorepo behind the LogGuard v1.0.0 release.
+🔬 **[LogGuard Experiments](https://github.com/dmsavkov/log-guard-experiments)** – R&D monorepo behind the LogGuard v1.0.0 release.  
+🎧 **[manga-tts](https://github.com/dmsavkov/manga-tts)** – English manga audio overlay: vision extract → TTS → player (personal research dogfood).  
+📡 **[personal-tracker](https://github.com/dmsavkov/personal-tracker)** – Reconstructable text-of-work (ActivityWatch + keystrokes) for LLM-pasteable daily stories.
 
 ### Earlier Work
 
+🧪 **[production-ml-lab](https://github.com/dmsavkov/production-ml-lab)** – Learning artifact: compressed production-ML immersion lab (Indago substrate — not a product).  
 💬 **[Messenger](https://github.com/dmsavkov/Messenger)** – Real-time messaging with auth, persistent storage, and WebSockets.  
 ⛈️ **[Bad-Weather-Notifier](https://github.com/dmsavkov/Bad-Weather-Notifier)** – Location-specific severe-weather alerts.  
 🎮 **[Geometry-Dash-AI](https://github.com/dmsavkov/Geometry-Dash-AI)** – RL environment for autonomous Geometry Dash gameplay. _(Paused.)_  
